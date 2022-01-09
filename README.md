@@ -7,7 +7,7 @@ As a creative writer and programmer, I'm interested in creating enjoyable user e
 - **💬 Ask me about**: my recent knitting projects
 - **📫 How to reach me**: Discord @akelok#1012
 - **😄 Pronouns**: she/her
-- **⚡ Fun fact**: I like to collect out of context quotes... see some of them [here](tinyurl.com/alisasquotebook).
+- **⚡ Fun fact**: I like to collect out of context quotes... see some of them [here](https://tinyurl.com/alisasquotebook).
 
 <!--
 **alisa-lu/alisa-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
