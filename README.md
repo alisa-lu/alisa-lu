@@ -3,7 +3,7 @@
 
 As a creative writer and programmer, I'm interested in creating enjoyable user experiences and incorporating storytelling in code, especially through games and interactive experiences!
 
-- **🌱 I’m currently learning**: fullstack development
+- **🌱 I’m currently learning**: fullstack development and AnimateCC
 - **💬 Ask me about**: my recent knitting projects
 - **📫 How to reach me**: Discord @akelok#1012
 - **😄 Pronouns**: she/her
