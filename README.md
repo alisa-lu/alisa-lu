@@ -5,7 +5,7 @@ As a creative writer and programmer, I'm interested in creating enjoyable user e
 
 - **🌱 I’m currently learning**: fullstack development
 - **💬 Ask me about**: my recent knitting projects
-- **📫 How to reach me**: Discord @akelok#1012
+- **📫 How to reach me**: alisasl [at] uci [dot] edu
 - **😄 Pronouns**: she/her
 - **⚡ Fun fact**: I like frogs :D
 
